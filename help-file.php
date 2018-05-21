@@ -4,7 +4,7 @@
  $pwd = "Ruap1234";
  $db = "ruapdb";
  // $host = "m1simunovic-mysqldbserver.mysql.database.azure.com";
- // $user = "ruapUser";
+ // $user = "ruapUser@m1simunovic-mysqldbserver";
  // $pwd = "NhZs.418";
  // $db = "ruapdb";
  $conn = mysqli_connect($host,$user,$pwd);
