@@ -1,11 +1,11 @@
 <?php
- $host = "ruapdbserver.mysql.database.azure.com";
- $user = "ruapUser@ruapdbserver";
- $pwd = "Ruap1234";
+ $host = "m1simunovic-mysqldbserver.mysql.database.azure.com";
+ $user = "ruapUser@m1simunovic-mysqldbserver";
+ $pwd = "RUAP-LV3";
  $db = "ruapdb";
  // $host = "m1simunovic-mysqldbserver.mysql.database.azure.com";
  // $user = "ruapUser@m1simunovic-mysqldbserver";
- // $pwd = "NhZs.418";
+ // $pwd = "RUAP-LV3";
  // $db = "ruapdb";
  $conn = mysqli_connect($host,$user,$pwd);
  // Check connection
